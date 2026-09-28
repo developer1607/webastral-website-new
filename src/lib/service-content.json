@@ -1,0 +1,1945 @@
+[
+  {
+    "slug": "mobile-website",
+    "title": "Mobile Website",
+    "category": "Web Design",
+    "image": "/assets/images/services/mobile-website/hero.jpg",
+    "h1": "Mobile websites that keep customers with you on every phone",
+    "p1": "As smartphone use keeps changing, WebAstral Infosystems extends your communication to mobile sites. Whether you are an SME or a large account, customers stay informed about your company and use your services from a phone — without zooming, waiting, or losing your brand.",
+    "h2": "Dedicated mobile or responsive design, built around how people actually browse",
+    "p2": "With our solutions you can support marketing campaigns, micro-payments, geo-location, tracking, QR codes, and social networks. We offer two paths: a dedicated mobile site, or a responsive design that keeps your identity while the layout adjusts to computer, tablet, and smartphone.",
+    "h3": "What are the benefits of a mobile website?",
+    "points": [
+      "One site, one customer experience on every device",
+      "A layout that fits any screen resolution",
+      "Single, centralized content management",
+      "One URL that strengthens your SEO",
+      "Faster mobile browsing with a lighter design"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg",
+        "description": "We study how your audience uses phones, what they need on the go, and where the current site slows them down."
+      },
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg",
+        "description": "We choose dedicated mobile or responsive design so the experience matches your brand, campaigns, and SEO goals."
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs3.svg",
+        "description": "We keep your visual identity and make type, tap targets, and navigation readable without pinch-zoom."
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs4.svg",
+        "description": "We lighten graphics and structure pages so they load quickly on slower mobile connections."
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs1.svg",
+        "description": "We test on real phones and tablets, then hand over a site your customers can use anywhere."
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Should we build a dedicated mobile site or a responsive website?",
+        "description": "Both work. A dedicated mobile site is built only for phones. Responsive design keeps one site and one brand, then adjusts the layout to computer, tablet, and smartphone. We recommend the option that fits your campaigns, content, and budget after a short discovery."
+      },
+      {
+        "title": "Will the mobile version still look like our brand?",
+        "description": "Yes. Responsive design keeps the identity and design of your site while it adapts graphically for readability. The same brand shows on every device, with a lighter layout that is easier to use on a phone."
+      },
+      {
+        "title": "How do you make pages fast on slower mobile connections?",
+        "description": "On the go, connections are often slower than a desktop. We display fewer heavy graphic elements, optimize images, and keep the layout light so people can read and move through the site without waiting."
+      },
+      {
+        "title": "Is one URL better for SEO?",
+        "description": "Yes. A single URL and centralized content make it easier to rank and keep the customer journey consistent, whether someone arrives from search on a phone or a computer."
+      },
+      {
+        "title": "Can you rebuild our existing website for mobile?",
+        "description": "We can build a mobile website from scratch or redo an old one. Timeline depends on how much of the current design, content, and features need to change. Share the live URL and we will give you a clear plan."
+      }
+    ]
+  },
+  {
+    "slug": "parallax-webdesign",
+    "title": "Parallax Web Design",
+    "category": "Web Design",
+    "image": "/assets/images/services/parallax-webdesign/hero.jpg",
+    "h1": "Parallax websites that pull visitors deeper as they scroll",
+    "p1": "Parallax scrolling is bringing user experience to a new level of interactive visualization. We separate background and foreground so they move at different speeds, giving a sense of depth as people sail from bottom to top. Used well, it makes sites fluid, fun, and hard to leave.",
+    "h2": "A graphical experience that tells a story while they scroll",
+    "p2": "Our designers and developers explore new ways to make web design more attractive through motion and visual features. Parallax lets you surprise viewers with depth, guide them with a story, keep them on the page, spark curiosity, and give the site credibility through interactive visualization.",
+    "h3": "Why parallax web design works",
+    "points": [
+      "Surprise viewers with depth and animation",
+      "Guide visitors through a story on the page",
+      "Keep people scrolling through the full site",
+      "Create curiosity that holds attention",
+      "Build credibility with interactive visualization"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg",
+        "description": "We map the story you need to tell and where depth, motion, and pauses will help visitors stay with you."
+      },
+      {
+        "title": "Story",
+        "image": "/assets/images/icons/work-procs2.svg",
+        "description": "We structure sections so each scroll beat reveals the next layer of the brand narrative."
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs3.svg",
+        "description": "We separate background and foreground graphics so the layout stays clear while layers move at different speeds."
+      },
+      {
+        "title": "Motion",
+        "image": "/assets/images/icons/work-procs4.svg",
+        "description": "We build fluid parallax, 2D and 3D animation, and scroll effects that feel smooth rather than distracting."
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs1.svg",
+        "description": "We test scrolling on real devices, then ship a site that impresses visitors with a unique navigation experience."
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is parallax web design?",
+        "description": "Parallax separates visual elements of the background so they scroll at different speeds. That creates a sense of depth as visitors move from bottom to top, turning a normal page into an interactive visualization."
+      },
+      {
+        "title": "Will parallax still work for SEO?",
+        "description": "Yes, when it is built as one coherent page with clear content. Curious visitors stay longer and scroll the full story, which helps engagement. We keep the structure readable for search engines while the motion does the visual work."
+      },
+      {
+        "title": "Is parallax only for e-commerce?",
+        "description": "It works especially well when you need to hook customers with a story, including e-commerce, but any brand that wants a unique, fluid visit can use it. We match the intensity of motion to your product and audience."
+      },
+      {
+        "title": "Can you add parallax to an existing website?",
+        "description": "Often yes. We review the current layout, then add layered sections and scroll effects where they help the story. If the site is too rigid, we rebuild the key pages so motion stays smooth."
+      },
+      {
+        "title": "How do you keep parallax from feeling slow?",
+        "description": "We use light layers, controlled animation, and performance checks so scrolling stays fluid. The goal is a fun visit, not a heavy page that lags on phones."
+      }
+    ]
+  },
+  {
+    "slug": "responsive-web-design",
+    "title": "Responsive Web Design",
+    "category": "Web Design",
+    "image": "/assets/images/services/responsive-web-design/hero.jpg",
+    "h1": "Responsive websites that fit every screen without zooming",
+    "p1": "Users are increasingly mobile and screens keep multiplying. Responsive web design remains the simple, flexible way to fit current and coming devices. The layout adjusts to the browser, tablet, smartphone, or connected TV so people get a full visit — without zoom, without a separate mobile site.",
+    "h2": "One site, complete immersion on every terminal",
+    "p2": "Beyond adapting to a phone, responsive design is a user experience: complete immersion regardless of the device. We usually map 3 to 4 templates to resolution families and use CSS so mobile users get a tailored layout, resized images, and reorganized content — with no redirects and low maintenance.",
+    "h3": "Benefits of responsive web design",
+    "points": [
+      "Simple, ergonomic navigation on every device",
+      "Content that is comfortable to read without zoom",
+      "Images that resize with the screen",
+      "Information reorganized for each viewport",
+      "No redirects, no OS detection, low maintenance"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg",
+        "description": "We identify how your audience actually browses — phone, tablet, desktop, and what they need to do on each."
+      },
+      {
+        "title": "Breakpoints",
+        "image": "/assets/images/icons/work-procs2.svg",
+        "description": "We map 3 to 4 templates to resolution families so the layout reflows cleanly instead of shrinking in place."
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs3.svg",
+        "description": "We plan type, tap targets, and navigation so the same brand stays readable from a wide monitor to a small phone."
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs4.svg",
+        "description": "We build fluid grids, flexible images, and CSS that serve the right layout without extra versions or redirects."
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs1.svg",
+        "description": "We check real devices and browsers so the experience stays fast, accessible, and easy to use everywhere."
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is responsive web design?",
+        "description": "It is a site designed to adapt to different screen sizes and terminals — browser, tablet, smartphone, connected TV. The same URL and content reflow with CSS so people never need a separate mobile site or the zoom feature."
+      },
+      {
+        "title": "How many layouts do you design?",
+        "description": "We usually design 3 to 4 templates mapped to families of resolutions. That keeps maintenance low while covering the devices your customers actually use."
+      },
+      {
+        "title": "Will visitors still need to zoom on a phone?",
+        "description": "No. Type, images, and navigation are sized for the device. Mobile users get a tailored experience without pinch-zoom or a scaled-down desktop page."
+      },
+      {
+        "title": "Do you create a separate mobile website?",
+        "description": "Responsive design avoids extra versions, redirects, and operating-system detection. One site, one set of content, lower maintenance — and a consistent brand on every screen."
+      },
+      {
+        "title": "Can you make our existing site responsive?",
+        "description": "Yes. Timeline depends on how the current layout is built. We review the live site, then rework grids, images, and navigation so it reflows cleanly. Share the URL and we will outline the work."
+      }
+    ]
+  },
+  {
+    "slug": "user-experience-design",
+    "title": "User Experience Design",
+    "category": "Web Design",
+    "image": "/assets/images/services/user-experience-design/hero.jpg",
+    "h1": "UX that helps people reach their goal without friction",
+    "p1": "Only successful experiences keep mature, demanding users engaged. UX design focuses on the whole visit — content, layout, and site architecture — so someone can buy, research, or complete a task without getting lost. We use collaborative, iterative methods so the product feels designed for the people who will actually use it.",
+    "h2": "The right questions, then wireframes and prototypes",
+    "p2": "We start by asking what your audience expects — for example, what should a travel site offer first, and how do those visitors actually behave? Then we place information areas on a wireframe to meet business goals, and build prototypes so practices are defined before the full visual design. That sequence keeps people on the site and leaves a better impression.",
+    "h3": "What our UX process covers",
+    "points": [
+      "Collaborative, iterative design and collective intelligence",
+      "Content, architecture, and layout that help users finish their task",
+      "The right questions about audience behaviour before pixels are drawn",
+      "Wireframes that place information to meet business goals",
+      "Prototypes that define practices before the full build"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Wireframes",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Prototyping",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How does collaboration work on a UX project?",
+        "description": "We stay in direct contact throughout the process and work in short iterative cycles so changes land quickly. A researcher and a group of designers stay dedicated to the project so the product stays user-centered and on schedule."
+      },
+      {
+        "title": "What is a wireframe in a web project?",
+        "description": "A wireframe is not a finished graphic of the site. It is an ergo-layout that places information areas on the page so business goals and audience expectations sit in the right order before visual design begins."
+      },
+      {
+        "title": "Why is research important in UX design?",
+        "description": "Research shows the choices, requirements, and preferences of the people you want to reach. Those insights keep the product user-centered and help the team understand the business well enough to target the right customers."
+      },
+      {
+        "title": "Why do you prototype before the visual design?",
+        "description": "Prototypes let you review flows, content placement, and practices on the site or application while they are still cheap to change. That step is how we define what to adopt before the full build."
+      },
+      {
+        "title": "Does UX work stop at launch?",
+        "description": "No. Many factors matter during design and afterward. User feedback after launch is part of keeping people on the site, leaving a good impression, and refining the experience against web standards."
+      }
+    ]
+  },
+  {
+    "slug": "wordpress-development",
+    "title": "WordPress Development",
+    "category": "CMS",
+    "image": "/assets/images/services/wordpress-development/hero.jpg",
+    "icon": "/assets/images/icons/wordpress-dev.svg",
+    "h1": "WordPress sites that are easy to run and fully customizable",
+    "p1": "WordPress is an open-source CMS written in PHP — and still the world’s most popular tool for building websites. It can power a simple blog, a full business site, or an online store with WooCommerce. You can add pages, posts, and images from a browser without HTML or FTP software.",
+    "h2": "Custom themes, plugins, speed, and SEO — not just a starter theme",
+    "p2": "The look of a WordPress site can be 100% customized so your brand comes through. We build custom themes, customize plugins, speed the site up, and set it up for search engines. Thousands of themes exist, but a unique experience still needs design and development work behind the engine.",
+    "h3": "Why WordPress is so widely used",
+    "points": [
+      "Easy to use, with an intuitive interface for pages, posts, and images",
+      "Manage the site from any computer with a browser",
+      "No HTML editing or FTP software required for everyday updates",
+      "Clean code that search engines can read, plus per-page titles and meta",
+      "A design that is 100% customizable so the brand can shine through"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How long does a WordPress website take?",
+        "description": "A straightforward site can be ready in a couple of weeks. A more complex build with custom features and third-party apps can take a few months. Time depends on the business model, the features, and how much is custom versus a theme."
+      },
+      {
+        "title": "Can I update the site myself after launch?",
+        "description": "Yes. WordPress is browser-based. You can log in from any computer, add pages and posts, format text, and upload images without HTML or FTP software. We set the site up so everyday publishing stays simple."
+      },
+      {
+        "title": "Do you build custom themes and plugins?",
+        "description": "Yes. WordPress is the engine; the look can be fully customized. We develop custom themes, customize plugins, and add the features your brand needs instead of forcing a generic starter design."
+      },
+      {
+        "title": "Can WordPress run an online store?",
+        "description": "Yes. WooCommerce turns a WordPress site into a shop. We can set up products, checkout, and the theme so the store matches the rest of the brand."
+      },
+      {
+        "title": "How do I keep a WordPress site secure?",
+        "description": "Keep WordPress, plugins, and themes updated, use strong passwords, add two-factor authentication, and install a security plugin that can flag threats. We can put those practices in place and keep them current as part of support."
+      }
+    ]
+  },
+  {
+    "slug": "shopify-development",
+    "title": "Shopify Development",
+    "category": "CMS",
+    "image": "/assets/images/services/shopify-development/hero.jpg",
+    "h1": "Shopify stores that launch quickly — hosting included",
+    "p1": "Shopify is a hosted e-commerce platform. You can create a store, add products, and if you need to, connect that inventory to a physical shop. It works for small start-ups and also has an enterprise version used by well-known sites. Sign up, organise products, pick a theme, take card payments, track orders, and run a blog from one place.",
+    "h2": "Themes, checkout, and a store that stays online",
+    "p2": "You do not have to find hosting or install software. Shopify provides the admin, the cart, and the servers — including updates and traffic spikes. Themes are mobile responsive, and a built-in mobile cart lets people shop from a phone. Abandoned checkout emails can bring back the majority of visitors who leave a basket behind.",
+    "h3": "What Shopify can do",
+    "points": [
+      "Quick and easy to set up, with a clean admin and documentation",
+      "No tech worries: hosting, software, and updates are included",
+      "Fast, secure, and always-on servers for card payments",
+      "Abandoned cart recovery that emails shoppers who leave without buying",
+      "Mobile-ready themes and a built-in mobile shopping cart"
+    ],
+    "workProcess": [
+      {
+        "title": "Roadmap",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Designing",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Do I need an agency to start a Shopify store?",
+        "description": "You can launch a basic store yourself — Shopify hosts everything. An agency helps when you need a unique theme, custom checkout behaviour, apps, or a store that matches a brand instead of a generic template. We also stay on for support after launch."
+      },
+      {
+        "title": "Will I have a dedicated project manager?",
+        "description": "Yes. Your store sits with a project manager plus designers and developers. We stay in touch through the build so the theme, products, and checkout match how you actually sell."
+      },
+      {
+        "title": "Can you customize the theme?",
+        "description": "Yes. Shopify has a wide selection of themes, and we can give the store a unique look so it is not just another template. The design still stays mobile responsive."
+      },
+      {
+        "title": "Does Shopify work on phones?",
+        "description": "Yes. All Shopify themes are mobile responsive, and the platform includes a built-in mobile commerce cart. Shoppers can browse and buy from a phone without a separate mobile site."
+      },
+      {
+        "title": "What is abandoned cart recovery?",
+        "description": "More than two-thirds of shoppers put something in the basket and leave. Shopify can track those checkouts and email people to finish the purchase — a simple way to recover revenue without extra software."
+      }
+    ]
+  },
+  {
+    "slug": "opencart-development",
+    "title": "OpenCart Development",
+    "category": "CMS",
+    "image": "/assets/images/services/opencart-development/hero.jpg",
+    "h1": "Open-source OpenCart stores that stay search-friendly",
+    "p1": "OpenCart is a free, open-source shopping cart. The storefront is SEO-friendly, the admin is inviting, and it works for seasoned developers as well as first-time merchants. Install a theme, add products, set payment and shipping, then start taking orders.",
+    "h2": "Four steps to a shop you control",
+    "p2": "Everyday catalog and order work does not need a specialist. OpenCart is written in PHP, so custom themes and features are straightforward when you do need them. The platform is lightweight, uses AJAX for faster pages, and includes a simple one-page checkout and search.",
+    "h3": "Advantages of choosing OpenCart",
+    "points": [
+      "Four-step setup: theme, products, payment and shipping, then live orders",
+      "Easy install with a clean admin for everyday store management",
+      "No specialist skills needed for catalog, orders, and settings",
+      "Lightweight pages, AJAX, and a one-page checkout that keeps buying simple",
+      "Full control of an open-source store you can customize as you grow"
+    ],
+    "workProcess": [
+      {
+        "title": "Define",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Delivery",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Why hire OpenCart developers?",
+        "description": "OpenCart is open source, but a quality store still needs someone who knows the platform. Developers can customize the catalog, build a theme that matches the brand, connect payment and shipping, and migrate an older version. You stay focused on selling while the store is built and kept current."
+      },
+      {
+        "title": "Why choose WebAstral for OpenCart?",
+        "description": "We build OpenCart stores from a simple catalog through to more complex custom work. That includes theme development, checkout setup, and support after launch. You get regular updates, clean code, and a store that is ready to take orders."
+      },
+      {
+        "title": "How long does an OpenCart store take?",
+        "description": "A straightforward store can take a few weeks. Custom themes, extra features, or a migration take longer. We keep communication open so you know what is in progress and when the shop can go live."
+      },
+      {
+        "title": "Can you customize themes and migrate an existing shop?",
+        "description": "Yes. We install and tailor themes, add the features you actually need, and move an older OpenCart store to a current version without losing products or orders."
+      },
+      {
+        "title": "Do I keep control of the store?",
+        "description": "Yes. OpenCart is open source, so you own the code, the catalog, and the hosting. We set up the admin so your team can manage products, orders, and shipping without waiting on a developer for every change."
+      }
+    ]
+  },
+  {
+    "slug": "drupal-development",
+    "title": "Drupal Development",
+    "category": "CMS",
+    "image": "/assets/images/services/drupal-development/hero.jpg",
+    "h1": "Open-source Drupal sites you can actually shape",
+    "p1": "Drupal is a free, open-source CMS and a development framework. People without deep technical skills can still create and manage many kinds of sites. Drupal core covers user accounts, menus, RSS feeds, taxonomy, page layout, and system administration.",
+    "h2": "Easy to manage once it is set up — and not locked to a template",
+    "p2": "Drupal can look harder than other CMS platforms at first. Once the admin is explained, editors can work with content without learning every hidden setting. The source code can be changed, so the brand is not stuck looking like another Drupal site. It is also SEO-friendly and mobile-ready, with APIs for analytics, video, and social platforms.",
+    "h3": "Benefits of Drupal",
+    "points": [
+      "Easy to manage once the admin is explained",
+      "Open source, so developers can change the code instead of staying inside a template",
+      "Deep customization so the site does not look like another Drupal install",
+      "SEO-friendly and mobile-ready, because markup and layout can be adjusted",
+      "APIs for analytics, social, video, and other tools you already use"
+    ],
+    "workProcess": [
+      {
+        "title": "Analyze",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Plan",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Implement",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Deliver",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What are the benefits of using Drupal as a CMS?",
+        "description": "Drupal is free and open source. You can change the code, not just pick a theme. Editors get a full content toolkit, the platform is SEO-friendly and mobile-ready, and APIs connect the site to analytics, video, and social tools. It is a strong fit when the site needs to grow without being boxed in by a template."
+      },
+      {
+        "title": "What kind of sites can Drupal run?",
+        "description": "Corporate sites, news and magazines, forums, social networks, and help-desk systems are all common Drupal builds. Drupal core already covers accounts, menus, taxonomy, and RSS, so we start from a real CMS rather than a blank page."
+      },
+      {
+        "title": "How is a Drupal project priced?",
+        "description": "Cost depends on scope: how much custom work, content types, integrations, and security the site needs. A straightforward brochure site costs less than a complex editorial or membership build. We outline that before work starts."
+      },
+      {
+        "title": "Do you work with Drupal 7, 8, and 9?",
+        "description": "Yes. We build and customize Drupal sites on current versions, and we can migrate older Drupal 7 or 8 installs so you keep content, users, and URLs instead of starting over."
+      },
+      {
+        "title": "Is Drupal hard for editors to use?",
+        "description": "It can feel that way at first compared with simpler CMS tools. Once we set up the admin and walk the team through it, editors can manage pages, menus, and taxonomies without needing a developer for every change."
+      }
+    ]
+  },
+  {
+    "slug": "joomla-development",
+    "title": "Joomla Development",
+    "category": "CMS",
+    "image": "/assets/images/services/joomla-development/hero.jpg",
+    "h1": "Open-source Joomla sites that are easy to set up",
+    "p1": "Joomla is a free, open-source CMS for publishing web content. It is built on an MVC framework that can also be used on its own. The CMS connects to MySQL, MySQLi, or PostgreSQL so managers and visitors both get a simpler content flow.",
+    "h2": "Templates, usability, and a platform that stays free",
+    "p2": "A template changes how the site looks — front-end for visitors, back-end for editors. Joomla is easy to learn, quick to set up, and 100% free. You do not need to program to launch a site, but the open codebase lets us add a custom module when you need something unique.",
+    "h3": "Why use Joomla",
+    "points": [
+      "Versatile enough for government, education, media, corporate, shops, and blogs",
+      "Easy to learn and quick to set up without programming",
+      "100% free, with a volunteer-driven project behind it",
+      "Open source, so every part can be inspected and changed",
+      "Thousands of extensions, plugins, and templates to extend the site"
+    ],
+    "workProcess": [
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Why choose Joomla over other CMS platforms?",
+        "description": "Joomla is free and open source. It includes two-factor authentication and bcrypt hashing, plus built-in SEO tools. Thousands of extensions can add the features you need without starting from a blank framework. It is also used widely for government, education, media, and shops."
+      },
+      {
+        "title": "What Joomla work do you take on?",
+        "description": "New sites, rebuilds, theme development, custom modules and plugins, and support after launch. We use Joomla as a CMS and, when it fits, as the MVC framework underneath."
+      },
+      {
+        "title": "Is Joomla a good fit for a small business?",
+        "description": "Yes. There is no licence fee, and you can start with a template then add extensions as you grow. It stays a practical choice when the budget is tight but the site still needs to look and work properly."
+      },
+      {
+        "title": "What is a Joomla template?",
+        "description": "A template is an extension that changes how the site looks. Front-end templates control what visitors see. Back-end templates control the admin. We pick or custom-build both so editors and shoppers each get a layout that fits."
+      },
+      {
+        "title": "Can you build a custom module?",
+        "description": "Yes. You can run Joomla without writing code, but the codebase is open. When you need a module no off-the-shelf extension covers, we build it and keep it maintainable."
+      }
+    ]
+  },
+  {
+    "slug": "codelgniter-development",
+    "title": "CodeIgniter Development",
+    "category": "Framework",
+    "image": "/assets/images/services/codelgniter-development/hero.jpg",
+    "h1": "Lightweight CodeIgniter apps that stay fast to run",
+    "p1": "CodeIgniter is a powerful yet lightweight PHP framework. It follows MVC (Model-View-Controller) and is easy to pick up, with strong documentation and a small footprint. We build custom CodeIgniter applications, portals, and APIs that stay easy to maintain and perform under real traffic.",
+    "h2": "A small framework with libraries that speed up delivery",
+    "p2": "CodeIgniter cuts development time without locking you into a heavy stack. Caching keeps pages snappy. It is easy to install, works across environments, and suits small and medium applications. We follow MVC, write reusable libraries, and connect payments, CRMs, and other APIs when the product needs them.",
+    "h3": "Why use CodeIgniter",
+    "points": [
+      "MVC architecture that is easy to handle and fully object-oriented",
+      "A small footprint with caching that keeps page load light",
+      "Security-minded code backed by an active developer community",
+      "Stable releases that are simple to install across environments",
+      "A library collection that speeds up everyday application work"
+    ],
+    "workProcess": [
+      {
+        "title": "Analyze",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Test",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Deliver",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Why choose CodeIgniter over heavier PHP frameworks?",
+        "description": "CodeIgniter has a small footprint, clear documentation, and strong execution speed. You do not need a massive setup to reach the goal. It is a practical fit for small and medium applications where Symfony or Zend would add more weight than the project needs."
+      },
+      {
+        "title": "What CodeIgniter work do you take on?",
+        "description": "New MVC applications, migrations from older PHP code, custom libraries, REST APIs, and integrations with payments, CRMs, and other third-party tools. We also tune caching, security, and performance before launch."
+      },
+      {
+        "title": "Is CodeIgniter still a good choice for a new project?",
+        "description": "Yes, when the product needs a lightweight PHP stack that is easy to install and maintain. The framework is well documented, object-oriented, and used in production systems such as OpenCart. We match it to the brief rather than forcing it onto every job."
+      },
+      {
+        "title": "How does MVC help the finished application?",
+        "description": "Model, View, and Controller keep data, presentation, and logic apart. That makes the code easier to test, reuse, and hand over. New features sit in the right layer instead of spreading through a single script."
+      },
+      {
+        "title": "Can you connect CodeIgniter to other systems?",
+        "description": "Yes. We use the library set and custom modules to connect payment gateways, CRMs, and REST APIs. Caching and environment config stay in place so the app remains light after those integrations."
+      }
+    ]
+  },
+  {
+    "slug": "cakephp-development",
+    "title": "CakePHP Development",
+    "category": "Framework",
+    "image": "/assets/images/services/cakephp-development/hero.jpg",
+    "h1": "Rapid CakePHP apps without reinventing the wheel",
+    "p1": "CakePHP is a free, open-source PHP framework for rapid development. It is a foundational structure so you work quickly and stay structured without losing flexibility. We build the specific logic of your application instead of starting from a blank stack.",
+    "h2": "MVC, ORM, and tools so you code only what you need",
+    "p2": "Scaffolding, CRUD, code generation, clean URLs, validation, helpers, ACL, caching, and i18n ship with CakePHP. MVC and ORM keep the app consistent from the first request to the last screen. It is fully object-oriented and suited to serious applications that still need to ship fast.",
+    "h3": "Why use CakePHP",
+    "points": [
+      "Active community and a flexible open-source license",
+      "Built-in CRUD, scaffolding, and code generation",
+      "MVC architecture with ORM for database work",
+      "Helpers, components, ACL, and a flexible cache",
+      "Validation, localization, and clean customizable URLs"
+    ],
+    "workProcess": [
+      {
+        "title": "Analyze",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Test",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Deliver",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Support",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is CakePHP used for?",
+        "description": "CakePHP is a PHP framework for rapid application development. It gives you MVC, ORM, scaffolding, and a set of helpers so you can focus on the product logic instead of rebuilding sessions, forms, and database access on every project."
+      },
+      {
+        "title": "How does CakePHP speed up development?",
+        "description": "CRUD is built in. Scaffolding and code generation stand up screens quickly. You get a copy of CakePHP and work on the application itself — the core is already tested and keeps improving with the community."
+      },
+      {
+        "title": "What are MVC and ORM in CakePHP?",
+        "description": "MVC keeps models, views, and controllers apart. ORM maps database tables to objects so queries stay consistent. Together they make the app easier to extend, test, and hand over."
+      },
+      {
+        "title": "Can you customize a CakePHP application?",
+        "description": "Yes. The architecture is built to be extended. We add custom components, helpers, and ACL rules, and connect payments, CRMs, and other APIs when the product needs them."
+      },
+      {
+        "title": "Is CakePHP a good fit for a new project?",
+        "description": "Yes, when you want a structured PHP stack that ships fast without a heavy setup. It is fully object-oriented, well documented, and practical for serious applications that still need to move quickly."
+      }
+    ]
+  },
+  {
+    "slug": "yii-development",
+    "title": "Yii Development",
+    "category": "Framework",
+    "image": "/assets/images/services/yii-development/hero.jpg",
+    "h1": "Progress with Webastral Infosystems Yii Web Solutions",
+    "p1": "Yii stands for yes. It is an open-source web application development that comes from the house of PHP5. Known for it’s optimized and impressive performance, it is considered the best and fastest PHP Framework and that is why it is used for large-scale websites. The powerful frame is especially used for websites, forums and social media portals with high traffic rates. This framework is packed with several features like DAO, MVC, scaffolding, skinning, authentication, caching and testing among others.",
+    "h2": "Hire Our YII Developers for highly Professional Websites",
+    "p2": "Our team of YII developers have years of experience in developing standard business websites. Our team works religiously with proper planning to create customized web solutions that are packed with all-inclusive features. It is our logical, ethical and creative approach towards our clients that keeps us ahead of others and creates digital solutions that will boost your business.",
+    "h3": "What makes us Different?",
+    "points": [
+      "Client-managed Dedicated Teams",
+      "Years of expertise in IT niche",
+      "On-time delivery",
+      "OPne for Feedback from clients."
+    ],
+    "workProcess": [
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "QA Testing",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How do I get started?",
+        "description": "Firstly, we would need a brief about your business. After getting to know your goals and requirements, we will schedule a call between you and one of our experts. This way our team can have one-to-one conversions without regarding the strategy of the projects and your input on it."
+      },
+      {
+        "title": "How much time take to develop a Yii-based application?",
+        "description": "The time in the development of an application is based on the type and requirements of clients. Our experts work hard to provide agile services around the clock. We believe in working efficiently to minimize the need for repeated contact. Webastral is agile and tries to serve the best services quickly."
+      },
+      {
+        "title": "What is the latest in Yii framework different from others?",
+        "description": "Yii framework for web development is the most effective and reliable framework. It has error handling and correction technology and comes with built-in authentication support, making it more straightforward and accessible. Yii framework facilitates high-end security from attacks such as SQL injection, cross-site scripting, and cookie tampering. Yii has all that you need for good web development."
+      }
+    ]
+  },
+  {
+    "slug": "angular-js-development",
+    "title": "Angular JS Development",
+    "category": "Framework",
+    "image": "/assets/images/services/angular-js-development/hero.jpg",
+    "h1": "Dream Big with the Best AngularJS Development Services",
+    "p1": "The demand for single-page and easy-to-use lightweight applications has increased in recent years. That is why popular front-end Angular JS has become the top choice. It enables the seamless integration of modern technology and operation architectures to create robust and elegant web-based applications. This type- of script-based framework complies with the latest Java- Script Standard to create the best web solutions.",
+    "h2": "What makes us Different?",
+    "p2": "At webastral Infosystem, we help you build advanced digital products that are custom-made and highly affordable. We aim to create simplistic solutions for complex solutions that will meet all your business requirements. Our expert team builds applications with enhanced UX and an agile development cycle catering to the needs of the users. Our Team of dedicated angularJS developers is experienced in creating applications in multiple domains.",
+    "h3": "Key Features of An AngularJS Web Development Company",
+    "points": [
+      "Expertise & Experience",
+      "Customized Services",
+      "Commitment to Quality",
+      "Forward-thinking and strong team management"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "QA Testing",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is Angular JS used for?",
+        "description": "Angular is a popular Type- Script program-based open-source framework, which is used for developing a wide range of web solutions. It includes web solutions like single-page applications (SPAs), content management systems (CMS), Progressive web applications (PWAs), and E-Commerce platforms among others. It is an all-in-one web solution for complex, business-grade to simple websites. It is widely used in many industries."
+      },
+      {
+        "title": "How much does the outsourcing of Angular JS Development cost?",
+        "description": "The cost of outsourcing the Angular JS Development project depends on various factors like design requirements, and the complexity of the application depends on various factors like design, complexity and other requirements of the project. Though the market value for Angular JS Development services is very high, but as the best IT Services globally we aim to strike a balance between quality and quantity for maximum satisfaction of the customers."
+      },
+      {
+        "title": "How long does it take to deliver an Angular JS Development Project?",
+        "description": "The time taken by the Angular development company to deliver the project depends on a wide range of factors such as the client’s requirements and expectations, such as work, size and complexities of the project and availability of the resources. If the client needs a simple web application, it may take a few weeks to a couple of month. On the other hand, the complex project with customization requirements may take even a year."
+      }
+    ]
+  },
+  {
+    "slug": "laravel-development",
+    "title": "Laravel Development",
+    "category": "Framework",
+    "image": "/assets/images/services/laravel-development/hero.jpg",
+    "h1": "Best Laravel Development Company Providing End-to-End Solutions",
+    "p1": "Unlock the power of custom-made web development to build tailored- made solutions that meet your specific business needs. Our experienced Laravel developers leverage Laravel’s robust features to build custom web applications that enhance your online presence, drive business growth, and unlock new opportunities. Our Laravel development services experts work closely with you to understand your requirements and deliver the solutions that give the desired result.",
+    "h2": "Partner with the Best Laravel Development Company",
+    "p2": "We are a world-class Laravel development company that offers tailor-made web solutions to clients. Whether you are stuck with website content that you can’t resolve, or want a full-fledged AI-integrated application, we can help you. With years of experience, we offer highly optimized web solutions that increase traffic and bring better ROI.",
+    "h3": "Why opt for Laravel?",
+    "points": [
+      "Rapid Application Development",
+      "Robust Performance",
+      "Highly Secure",
+      "Easy Integration"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "QA Checkup",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What are the benefits of outsourcing Laravel Development Services?",
+        "description": "It is beneficial to outsource the best Laravel app development services from a country like India because we are flexible. We are ready to work according to your time zone and give access to experienced developers, reduced development time, assured quality Laravel web application development services, cutting-edge technology support, and many others."
+      },
+      {
+        "title": "How much does it cost to develop a Laravel app?",
+        "description": "The cost of a Laravel development project depends on many factors, like the quality of the development platform, categories, project complexity, the country of a developer, and the number of features you need in your web app. You can contact us with your requirements to get the project development cost."
+      },
+      {
+        "title": "Can you help me with the incomplete web/app development project?",
+        "description": "Yes, of course we will! We have come across a couple of clients who previously were working with some other technology partners, but due to some reasons, their app development process was left unfinished. We understand the importance and your eagerness to bring the app to life. We will be pleased to help you. Our experts would love to discuss your ideas, find the right solution, and turn it into a reality."
+      }
+    ]
+  },
+  {
+    "slug": "next-js-developement",
+    "title": "Next.js Development",
+    "category": "Framework",
+    "image": "/assets/images/services/next-js-developement/hero.jpg",
+    "h1": "Trusted Next JS Development Company for Innovative Solutions",
+    "p1": "Next JS is one of the fastest Java frameworks, and Webastral Infosystems provides the fastest and most scalable server-side application development services. Our Next JS developers make complete use of the power of Next JS and develop applications that are feature-rich, high-speed, and customized to your business needs. Our goal is to develop applications for your business needs that are unique and out-of-the-box. We are committed to providing our clients with numerous exciting Next JS Application features such as hot reloading, reusable elements, pre-rendering, etc.",
+    "h2": "Get Robust Business Solutions to Boost your Profits",
+    "p2": "You can engage with our expert team for satisfactory Next JS development services and get robust business solutions to boost your business profit. From our numerous pricing models, you can choose from different engagement models offered by webastral infosystems, depending on your requirements and budget. We have the best IT Solutions for everyone. Our expert Next JS developers can cater to all kinds of industries, irrespective of the domain, and provide you with the best solutions.",
+    "h3": "Why Choose Next JS Development Services?",
+    "points": [
+      "SEO - Friendly",
+      "Code Splitting",
+      "Ease of Testing",
+      "Server & Client  side routing"
+    ],
+    "workProcess": [
+      {
+        "title": "Planning",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Designing",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "QA",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How is Next JS development good for SEO?",
+        "description": "Next JS reads the code of the templates on the server and also integrates with client-side files. It employs client-side rendering (SSR) and may also function as a great Static Site Generator (SSG) for boosting organic traffic and ranking high-content keywords."
+      },
+      {
+        "title": "Can Next JS be added to a current Project?",
+        "description": "Yes, it can be added to the current project. Next JS offers a configuration setup process that is similar to creating a React app that allows you to add SSR to the current app, which helps integrate Next JS into the existing application."
+      },
+      {
+        "title": "What are the benefits of outsourcing to NextJS developers?",
+        "description": "Outsourcing Next JS development services to a trusted partner like Webastral Infosysystem offers the most cost-effective, specialized expertise, faster time-to-market, and reduced administrative burden. Leverage our experience, technical proficiency, efficient project management, and timely delivery."
+      }
+    ]
+  },
+  {
+    "slug": "android-app-development",
+    "title": "Android App Development",
+    "category": "Mobile App Development",
+    "image": "/assets/images/services/android-app-development/hero.jpg",
+    "icon": "/assets/images/icons/content-writing.svg",
+    "h1": "We Build User-Centric Apps With Full- Fledged Customization",
+    "p1": "Starting from the stage of concept planning to coding, we create rich-featured Android applications with consistent performance and premium functionality. As a major Andriod app development company, we facilitate multiple industries, covering diverse services through app designs, development, QA, maintenance, integration and the right USP, we can guarantee our clients gain 2X progressive ROI growth.",
+    "h2": "Maximize your business Potential with Andriod App Development",
+    "p2": "Being one of the best IT company globally with the latest tools for Android app development make sure that the app created can grab the attention of the target audience. The Android ecosystem has a high degree of flexibility and compatibility and we make sure to make full use of it. Thus, we can make full use of the customized options that are available at various points. As an agile and innovative platform, the Android app helps small businesses boom and we help them in the process by developing quality Android apps.",
+    "h3": "Benefits of Andriod App Development",
+    "points": [
+      "Increased visibility and reach.",
+      "Direct customer engagement.",
+      "Google services integration",
+      "Scalability & Flexibility"
+    ],
+    "workProcess": [
+      {
+        "title": "Planning",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "QA Test",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What are the criteria to choose Andriod Development Services?",
+        "description": "When selecting development services for Android projects, looking at the bigger picture is important. Consider the efficiency and proficiency of the company you are considering hiring. When you are looking for the company’s portfolio, the technologies that it specializes in and most importantly what the clients say about it."
+      },
+      {
+        "title": "How long does it take to develop an Android app?",
+        "description": "The process of Android app development is quite vast and it is done in different stages. Keeping in mind the design and development process of the Android platform- the duration of a basic Android application is around 4- 6 months. On the other hand, a wide range of customised apps can take up to a year time."
+      },
+      {
+        "title": "Will I get support service after the completion of the project?",
+        "description": "We never leave clients on our own after the completion of the project. We provide constant support and maintenance services so that you can maintain the sustainability of your application. Especially in the case of customized apps, there is always a need for support services to further alter and improve the features as per the requirements of the users."
+      }
+    ]
+  },
+  {
+    "slug": "ipad-app-development",
+    "title": "iPad App Development",
+    "category": "Mobile App Development",
+    "image": "/assets/images/services/ipad-app-development/hero.jpg",
+    "h1": "Contact us for the Best Customer- Engaging iPad App Development Company",
+    "p1": "Webastral Infosystems is one of the most reliable iPad app development companies in India. We have a highly competent team of highly skilled developers who are creating robust iPad solutions. Whether you want to develop the app for the iPad mini-series or the original iPad itself, we are here at your service. We use the latest tools like PhotoKit, Handoff, Manual Camera Controls, Touch ID, etc to create the best product for our clients. Our team is an expert in creating visually appealing apps that will increase engagement, thus taking your business to the next level.",
+    "h2": "Why choose Webastral Infosystems for iPad App Development?",
+    "p2": "As a top-ranking IT & Software sector across the globe, we have many years of experience in harnessing iPad devices' simplicity and sheer power. We have the best team of developers that will contribute to the best IT solutions. We utilize the effectiveness of iPad applications, which will lead to the best business solutions. Our major goal is to provide effective iPad solutions to our clients that occur in your business and add tremendous value to it.",
+    "h3": "Benefits of iPad Development",
+    "points": [
+      "Boosting Visibility",
+      "Captivating Design",
+      "Strong Security",
+      "Amazing User Experience"
+    ],
+    "workProcess": [
+      {
+        "title": "Analysis",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "QA",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Is iPad App Development Expensive?",
+        "description": "App Development is a long and complex process. Sometimes, it may take more than half a year. The reason behind this is that the developers have to focus on many factors while creating the app. These factors determine the cost of the app. Apart from that, the developers have to make sure that the app behaves identically to all the versions of the app. So, they have to use technology according to the requirements and the customization demands can also reflect on the price."
+      },
+      {
+        "title": "Will you provide support after the app goes live?",
+        "description": "Yes, we will not leave you mid-way. We will guide you even after the app has been launched. It is also essential to upgrade the features according to the traffic flow and make sure there are no errors."
+      },
+      {
+        "title": "How can I get codebase ownership for my app?",
+        "description": "Once the app is completed, we will give you the database, we will give you the codebase, and you can become the owner of the code. After that, our developers will have no rights over the code of your app. We also provide proper documentation regarding the same."
+      }
+    ]
+  },
+  {
+    "slug": "iphone-app-development",
+    "title": "iPhone App Development",
+    "category": "Mobile App Development",
+    "image": "/assets/images/services/iphone-app-development/hero.jpg",
+    "icon": "/assets/images/icons/software-dev.svg",
+    "h1": "Empower your Business with Tailored iOS Solutions",
+    "p1": "As a top IT Company globally, Webastral Infosystems has years of expertise in multiple sectors extending to multiple sectors, offering business industry solutions for iOS app development. Our expert team not only guides you through the technology stack selection but also crafts an intuitive user experience that seamlessly integrates into the application of your existing system. Our proprietary mobile platform streamlines the development process, which makes it quicker and budget-friendly.",
+    "h2": "Fuel your iOS Apps with the Best Technologies",
+    "p2": "Developing the best kind of technologies for iOS Apps and processing them flawlessly is a tiring task. We understand that and utilize the best kind of tools for iOS Development Companies, our industry expert allows us to take advantage of the best IT-based tools while simplifying complexities. Turn your vision into reality by joining hands with us.",
+    "h3": "What makes us Different?",
+    "points": [
+      "Transparent Approach",
+      "Quick Process",
+      "Daily QA Checkup",
+      "24 * 7 Open Communication"
+    ],
+    "workProcess": [
+      {
+        "title": "Planning",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Designing",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "QA test",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is the Cost of iOS App Development?",
+        "description": "The cost of iOS app development depends on many factors and also your business requirements. Custom iOS with AI or AR/VR technologies will cost more than a basic iOS app. Apart from that UI components with a testing approach and several developers working on the project impact the iOS development cost to a huge extent. You can consult our experts and brief them with your requirements and get an estimated cost."
+      },
+      {
+        "title": "Will I get the Source code once the development process is completed?",
+        "description": "Yes, once the app is developed from our side we will share the source code with you along with other details. You will be the sole owner of your App source and the code once the development process is completed."
+      },
+      {
+        "title": "Do you offer post-launch support services?",
+        "description": "Yes, we do offer post-launch support services for your custom iOS app. It includes services like a custom iOS App, including testing, UX/ UI services, feature upgrades, cloud migration, technology migration and data migration among others."
+      }
+    ]
+  },
+  {
+    "slug": "hybrid-app-development",
+    "title": "Hybrid App Development",
+    "category": "Mobile App Development",
+    "image": "/assets/images/services/hybrid-app-development/hero.jpg",
+    "h1": "Get Hybrid App Development Services for High- Performance",
+    "p1": "Webastral Infosystems is a renowned hybrid app development company. We hold of record of developing modern apps with the latest technology. Our 10+ years of experience empowers us to deliver scalable hybrid mobile apps with optimal performance. The best part is that the Hybrid app needs no approval for updates. It automatically updates itself, so your app will always remain advanced and make your business go ahead in the competition.",
+    "h2": "Cross-platform App is a smart way of Marketing",
+    "p2": "We are always in search of budget-friendly yet quality projects.  Though a hybrid mobile app may be a bit expensive when compared with other apps, they are less than half the cost of other native apps because of it’s features. Once it is developed, it can be accessed across various platforms. So, you do not need to create different apps for different platforms. Also, the maintenance part is easy, just pick one framework that meets the best app needs and it will upgrade on it's own.",
+    "h3": "Advantages of Hybrid App Development",
+    "points": [
+      "Attractive UX/UI",
+      "Fast Speed",
+      "Accessible across all devices",
+      "Latest Technology"
+    ],
+    "workProcess": [
+      {
+        "title": "Discovery",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is Hybrid App Development?",
+        "description": "Hybrid applications combine the power of both web and native app development technologies to design applications that function seamlessly across all devices. These web applications are developed utilizing web programming languages like HTML, CSS, and JavaScript and popular frameworks like Ionic, React Native, and Flutter."
+      },
+      {
+        "title": "How much does the App development model cost?",
+        "description": "The cost of a hybrid app model depends on many factors such as the project’s scope, complexity, and specific requirements. However, the final cost of hybrid app development is less than developing two separate apps for iOS and Android."
+      },
+      {
+        "title": "Do you provide service to upgrade the old hybrid model to a new one?",
+        "description": "Yes, we do that. We understand how important it is to upgrade the app with the latest technologies to ensure it’s stability, security, and performance. Hence, at the webastral infosystems, we provide services to upgrade older hybrid apps into new ones."
+      }
+    ]
+  },
+  {
+    "slug": "web-development",
+    "title": "Web Development",
+    "category": "Web Development",
+    "image": "/assets/images/services/web-development/hero.jpg",
+    "icon": "/assets/images/icons/webdev.svg",
+    "h1": "Achieve your Goals with the Best Web Development Services",
+    "p1": "Webastral Infosystem has been building the best innovative web products for so many years. Our team uses the most up- to- date tech innovative. Our Tech experts can execute all kinds of tech projects for you, starting from up-to-date tech innovations be it customized web apps, E-commerce sites, or internal management portals among others. Our goal is to provide you with high-quality apps alongside a transparent and efficient process.",
+    "h2": "Get Ready for the Best Web Development Solutions",
+    "p2": "Our web development team combines years of experience with an understanding of the most up-to-date programming skills and approaches. When you build your app, we'll leverage the latest developing innovations. The entire process is built around your precise specifications and requirements. What makes us different from others is that we constantly test, update and take feedback from clients. As the best web development team constantly brainstorm with our team about the implementation of the best solution.",
+    "h3": "Why Webastral Infosystems?",
+    "points": [
+      "Partner with an award-winning team.",
+      "Give website leads that drive sales.",
+      "Accelerate ROI and bottom line.",
+      "Access to the industry’s latest software."
+    ],
+    "workProcess": [
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "QA Checkup",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Feedback",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is Custom web development and web Design?",
+        "description": "Custom web development and design involves creating customized solutions that suit your business needs. Every functionality and feature of web solutions can be tailored by our experts to meet your goals. We create such projects from ground level which involve a variety of tasks like front and back-end development, graphic design and UX Design."
+      },
+      {
+        "title": "How much do Web development Services cost?",
+        "description": "The cost of web development can vary depending on the nature of the project, it’s complexity, the expertise of the developers and where they’re based. On average, smaller or simpler projects can cost a few thousand thousand, on the other hand, the price of complex projects can be much more. To understand the exact cost, you can contact us, explain the project and then we will give you a quote."
+      },
+      {
+        "title": "Will my website be responsive and user-friendly?",
+        "description": "Creating mobile-friendly and user-friendly websites is the key to drawing more traffic to your business. Our team provides the best IT Services globally and thus makes sure to create responsive web designs so that the clients can enjoy huge ROI (Return on Investment). It is essential in this digital era of smartphones, that we make sure to deliver top-notch UX for all devices."
+      }
+    ]
+  },
+  {
+    "slug": "php-development",
+    "title": "PHP Development",
+    "category": "Web Development",
+    "image": "/assets/images/services/php-development/hero.jpg",
+    "h1": "Harness the Power of Best PHP Developers",
+    "p1": "Enhance the business performance and accelerate growth, productivity, and efficiency of evolving PHP web development services. We have an edge over the competition with feature-rich and highly functional PHP solutions that deliver measurable results.  We keep pace with industry standards to develop web solutions using the latest PHP technologies. These services are designed to build feature-rich and interactive websites using server-side scripting languages like HTML, CSS, and JavaScript. As a leading PHP Development company, we specialize in building custom solutions using applications for the PHP framework.",
+    "h2": "Why PHP Development is necessary?",
+    "p2": "By choosing the website built on PHP by Webastral Infosystems, you chose a proven system and a proven team. We have been building PHP-based websites for 10+ years now. Our IT solutions are efficient and cost-effective. Starting from scratch we examine your needs and requirements, plan the architecture for your future solutions,  select the PHP framework that will be most efficient to be created, and then proceed with the development process.",
+    "h3": "Why Choose Webastral Infosystems?",
+    "points": [
+      "Customer Driven Approach",
+      "Flexible",
+      "Experienced Team",
+      "Partnership Approach"
+    ],
+    "workProcess": [
+      {
+        "title": "Analysis",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Preparations",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "QA",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What kind of technologies do you have concerning PHP?",
+        "description": "Webastral Infosystems has been providing cutting-edge PHP solutions for over a decade now and we have expertise in various PHP frameworks like CakePHP, Laravel, Symfony, ZendFramework, Yii, CodeIgniter, and more. We are also adept in CMS Development like WordPress development, eCommerce development, mobile application development, and HTML and JavaScript development."
+      },
+      {
+        "title": "How much time do you need to complete PHP Development?",
+        "description": "At Webastral Infosystems, transparency and fairness are the core values of the work philosophy. We do not make any sort of false promises or commitments. So, when a client approaches us, we start by discussing and accordingly make an estimate of the time that will be required to finish the project. Our experts will make sure to deliver the project on time."
+      },
+      {
+        "title": "Will you modify my website design in the future?",
+        "description": "Yes, we will help you modify your website design in the future. Our developers will make the required changes in the site’s content, layout, and appearance based on the needs. We recommend discussing and defining all the project’s important elements and scope before getting started. We create tailor-made services that are according to the needs and requirements of the clients."
+      }
+    ]
+  },
+  {
+    "slug": "node-js-development",
+    "title": "Node.js Development",
+    "category": "Web Development",
+    "image": "/assets/images/services/node-js-development/hero.jpg",
+    "h1": "Build High-Performance Applications with Node.JS Development Services",
+    "p1": "Our company is dedicated to providing the best Node. JS Development services with the understanding of the client’s business and requirements. We strive to meet all the objectives and also adapt a convenient way of communication and deadlines. With this team of experts, we deliver robust, efficient solutions tailored to your business needs. Our focus is on speed, reliability, and ensuring that your projects are future-ready.",
+    "h2": "Hire our experienced Node.JS Developers",
+    "p2": "Our Node.js development team is a combination of various Node.js specialists- developers, engineers, project managers, and consultants who are ready to work on your unique projects. A talented Node.js development team of Webastral Infosystems are experts not only in Node.js but also in MongoDB, ExpressJS, and AngularJS. We can help you with building the back end, web servers, dynamic web applications, real-time web APIs, and other web tools very fast. We follow Agile development practices (test-driven development) to accelerate the project implementation, using the high speed and efficiency of JavaScript.",
+    "h3": "Why should you go for Node.JS Development Services?",
+    "points": [
+      "Faster Data Streaming",
+      "Quick to Develop",
+      "Light but efficient",
+      "Global Community"
+    ],
+    "workProcess": [
+      {
+        "title": "Planing",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is Node. js?",
+        "description": "Node.js is a real-time application that allows you to run JavaScript code on the server side. It uses an event-driven, non-blocking I/O model, making it well-situated for building scalable and efficient network applications."
+      },
+      {
+        "title": "How much does it cost to develop a Node. js Project?",
+        "description": "The cost of Node.js depends on many factors including the development platform, project scope, complexity, tech, and technology stack used, developer’s location, and desirable features. You can contact us with your idea and requirements if you want the most accurate estimate."
+      },
+      {
+        "title": "What kind of development process do you follow?",
+        "description": "As a standard Node.js development company, we follow industry-tested agile methodology and industry best practices. The web development process at Webastral Infosystems includes ideation, planning, designing, coding, testing, deployment, and maintenance."
+      }
+    ]
+  },
+  {
+    "slug": "asp-.net-development",
+    "title": "ASP.NET Development",
+    "category": "Web Development",
+    "image": "/assets/images/services/asp-.net-development/hero.jpg",
+    "h1": "Scale your ASP.NET Development with Webastral Infosystems",
+    "p1": "We offer outstanding ASP.NET web and application web development services for any business be it a large enterprise or small one. We are a leading ASP.NET development company that offers customized ASP. NET applications and web development services at the most affordable price rate. Our skilled team uses innovative techniques and technological know-how to provide .NET solutions, web-based systems, and custom software.",
+    "h2": "We Develop Secure & Feature-Rich Web Solutions",
+    "p2": "ASP.NET provides you with the framework, you need to construct simple online applications as well as large complicated ones. We have the expertise of working with various industries' clients as one of the best ASP.NET development companies. We have been functioning on several different bandwidth initiatives. Being a Top Software company globally, we have the necessary team and resources to develop business-specific apps to help your company succeed.",
+    "h3": "Why Choose our ASP.NET Development Services?",
+    "points": [
+      "Team of Skilled ASP. NET Developers",
+      "End-to-End Development Cycle",
+      "Agile Development Method",
+      "On-time Delivery"
+    ],
+    "workProcess": [
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is the role of ASP.NET in Web- Development?",
+        "description": "ASP.NET plays a crucial role in web development by providing a framework for building dynamic and interactive web applications. It simplifies the development process by offering a wide range of tools and components, making it easier to create feature-rich websites."
+      },
+      {
+        "title": "Is ASP. NET suitable for small businesses?",
+        "description": "Yes, ASP.NET Services are suitable for small businesses as well. It provides a flexible and scalable platform that can accommodate the needs of small businesses while allowing room for growth and expansion."
+      },
+      {
+        "title": "Is ASP.NET cost-effective?",
+        "description": "ASP.NET Services provides a cost-effective solution for web development. It offers a wide range of tools and features that accelerate the development process, reducing the overall development time and cost."
+      }
+    ]
+  },
+  {
+    "slug": "magento-development",
+    "title": "Magento Development",
+    "category": "Ecommerce Development",
+    "image": "/assets/images/services/magento-development/hero.jpg",
+    "h1": "Excellent Magento Development Services to Boost Your Online Store Performance",
+    "p1": "Webastral Infosystems offers a full suite of Magento development and e-commerce strategy services. From the design and architecture of your Magento platform to delivery and optimization, through to ongoing support and maintenance, our top Magento developers provide enviable expertise in the Magento platform. We do not just stop here, our major goal is not just building a great-looking site, but also boosting the site’s performance.",
+    "h2": "Why Choose Magento for your online store development?",
+    "p2": "Whether your enterprise is looking to enhance site user experience, capture more revenue per shopper, increase customer loyalty, drive up profit margins, streamline cart processes, make those calls to action more effective, and more, Webastral Infosystems e-commerce strategy and development experts are ready to help. Whether you have a small or a large business, Magento is scalable as per your need. It adapts to all the requirements because of its flexibility. Moreover, the Magento development company supports e-commerce across multiple web browsers and devices.",
+    "h3": "Why Choose Webastral Infosystems?",
+    "points": [
+      "10+ years of experience",
+      "Custom Solutions Delivered",
+      "Daily QA Checkup",
+      "Post Launch Support"
+    ],
+    "workProcess": [
+      {
+        "title": "Define",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Deliver",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How do the developers of Webastral Infosystems differ?",
+        "description": "At Webastral Infosystems, we thoroughly screen our developers to ensure we only match you with talent of the highest caliber. Only a small amount of developers makes it to the cut. You’ll work with engineering experts to understand your goals, technical needs, and team dynamics. The result: expert-vetted talent from our network, custom-matched to fit your business needs."
+      },
+      {
+        "title": "What Magento Development Services do we provide?",
+        "description": "Our best IT solutions include full-cycle Magento development, a dedicated development team that is assembled by the unique needs of the project, turn-key website development to provide you with a fully working website, mobile development, and Magento integrations with third-party solutions."
+      },
+      {
+        "title": "How do Webastral Infosystems ensure that their Magento development Services are affordable?",
+        "description": "Webastral Infosystem is committed to providing affordable Magento development services to all of its clients. We offer a variety of pricing options, work with clients to understand their requirements, and have a streamlined development process. We are very transparent about our costs with clients from the start of the project."
+      }
+    ]
+  },
+  {
+    "slug": "woocommerce-development",
+    "title": "WooCommerce Development",
+    "category": "Ecommerce Development",
+    "image": "/assets/images/services/woocommerce-development/hero.jpg",
+    "h1": "Hire WooCommerce Development by Certified Experts",
+    "p1": "Specially crafted for E-commerce sites, WooCommerce development is an optimum, efficient, and most widely used open-source platform, a special plugin for WordPress.  Develop robust and scalable Woocommerce platform for better management, sales growth, and increase in ROI.  At Webastral Infosystems we provide customized, flexible, and exceptional Woocommerce services.",
+    "h2": "Ultimate all-in-one solution for building your online store",
+    "p2": "We provide 24*7 support for resolving bugs and problems that are about operations and even migration. Evoke world-class infrastructure and resources skilled in creating quality WooCommerce web development applications, stores, and websites with high-security standards coupled with crucial features like budgeting and accounting tools that ensure a quality product developed bespoke to your enterprise’s requirements.",
+    "h3": "Why WooCommerce?",
+    "points": [
+      "Open-Source",
+      "User-Interface",
+      "Tailor-made Services",
+      "Regular Updates"
+    ],
+    "workProcess": [
+      {
+        "title": "Discovery",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Configuration",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "QA",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How much time does it take to complete the WooCommerce Development Project?",
+        "description": "Integrity and honesty are the keys to our work at Webastral Infosystems.  We never offer false promises to our esteemed clients. We never offer false promises to our esteemed clients. Hence, to help you with an optimal solution, we first understand the project requirements and flow in-depth, carefully analyze it, and clear all the queries that arise and come on the same page. Once all is clear, we estimate a time framework based on the agreed scope of work."
+      },
+      {
+        "title": "Can I choose WooCommerce platform for my large-scale business?",
+        "description": "Yes, you can choose WooCommerce as an E-Commerce platform for large-scale businesses. If you choose a reliable hosting provider like us, there will be no problems regardless of how big your website is or how much traffic your e-commerce site receives. On this quality platform, our developers make sure that heavy traffic can be handled. You can consult our expert team, for the best possible solution for your business."
+      },
+      {
+        "title": "How to boost the conversions of my Woocommerce store?",
+        "description": "To get more sales from your Woocommerce store, first, make sure that your e-commerce store loads quickly, a website is more user-friendly, and users can easily navigate across the store, and secure payment gateway integration. Secondly, you can hire digital marketing experts, which can help you decide proper SEO strategy, content marketing strategy, and social marketing strategy to boost the conversions of your website."
+      }
+    ]
+  },
+  {
+    "slug": "custom-e-commerce-development",
+    "title": "Custom E-commerce Development",
+    "category": "Ecommerce Development",
+    "image": "/assets/images/services/custom-e-commerce-development/hero.jpg",
+    "h1": "Power up your sales with custom E-Commerce Solutions",
+    "p1": "A custom E-Commerce solution allows you to get the most out of your platform in a way that boosts your business. That is why we offer a top-performing and customizable e-commerce platform tailored according to your needs. Webastral Infosystem is a small business and enterprise E-commerce platform for any sized business, from small businesses to mid-size enterprises. This custom e-commerce solution supports all your SKU’s, transactions, marketing functions, and operational integration software.",
+    "h2": "Ideal Solution for E-Commerce Business Owners & Developers",
+    "p2": "The customizable business solution gives store owners more control over their websites. This is what Webastral Infosystem is built for- to give control over your e-commerce website, strategy, and development so that you can successfully achieve the business goals, and requirements, enhance your user experience and ultimately grow your business. It is also developer-friendly for your team.  Webastral Infosystems is with you every step of the way, with the knowledge of the latest technology, trends, and latest IT solutions for e-commerce platforms.",
+    "h3": "What makes us different?",
+    "points": [
+      "API-Driven and headless ready",
+      "Peak performance",
+      "Robust Security",
+      "Cost-Effective"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "QA Test",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is meant by E-commerce software development?",
+        "description": "Software development involves the creation of software programs. This is often through the process of the SDLC or systems development of the life cycle. Through these processes, software developers design, develop deploy, and deploy software that meets the specified features or requirements set out in the planning stage. Get in touch with the Webastral Infosystem team, and we will tell you about the custom development process."
+      },
+      {
+        "title": "How long does it take to build an e-commerce website?",
+        "description": "The time for the creation of an e-commerce site can vary on various factors such as the complexity of the project, the size of the website, the features and functionalities required, the expertise of the development team, and also the level of customization needed."
+      },
+      {
+        "title": "How does your agency handle unresolved bugs and previous provider issues?",
+        "description": "Our e-Commerce development agency starts by resolving critical issues immediately. Regular calls and quarterly reviews ensure ongoing transparency and progress. Every other week, we have a call to review your feedback, as well as completed and open tasks to ensure everyone is on the same page."
+      }
+    ]
+  },
+  {
+    "slug": "graphic-design",
+    "title": "Graphic Design",
+    "category": "Graphic Design",
+    "image": "/assets/images/services/graphic-design/hero.jpg",
+    "icon": "/assets/images/icons/uiux.svg",
+    "h1": "Our Graphic Designing Services can do Wonders",
+    "p1": "Even the most effective business strategy would be ineffective if there were no high-impact, quality graphic designs. Great design is the key to a successful marketing strategy. It can garner the attention of a large number of target customers. Whether you need out-of-this illustrations, beautiful print designs or engaging marketing assets. The world-class graphic designers of Webastral Infosystems will make sure that they fulfil your requirements.",
+    "h2": "Drive Engagement with Eye-catching Graphic Designs",
+    "p2": "Unlike traditional graphic design agencies, webastral is tech-enabled. Our Creative-as-a-service design solutions are built to keep up with the evolving needs and fast pace of the enterprise team. Access to a full- suite of design services through a transparent design subscription model. You can hire us for quality banners, brochures or logo design.",
+    "h3": "Benefits of Exceptional Graphic Design",
+    "points": [
+      "First Amazing Impression",
+      "Increases sales",
+      "Builds Goodwill",
+      "Brand Identity"
+    ],
+    "workProcess": [
+      {
+        "title": "Brainstorming",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Designing",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Feedback",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Approvals",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What are exactly graphic designing services?",
+        "description": "Graphic designing services are usually provided by professional graphic designers. They have the expertise in creating visually appealing, functional and effective designs that meet your specific needs and goals. Our services are immensely in demand by the organizers, marketers and individuals who want to create a visually beautiful website. Attractive graphics help achieve communication and marketing objectives."
+      },
+      {
+        "title": "How long does it take to deliver the graphic design services project?",
+        "description": "The time- frame for the completion of the project depends on the size of the project and also the complexity of your requirements. It takes 2-3 weeks to normally complete a basic project, but the time duration of a complex project may vary. However, we assure you one thing the project that we deliver will match your expectations."
+      },
+      {
+        "title": "What if I am not satisfied with the end- result?",
+        "description": "Our major objective has always been client satisfaction. As the best graphic designing service company, the input of the clients is very valuable for us. We take feedback from clients and keep working on the product till it meets your requirements and you are satisfied."
+      }
+    ]
+  },
+  {
+    "slug": "banner-design",
+    "title": "Banner Design",
+    "category": "Graphic Design",
+    "image": "/assets/images/services/banner-design/hero.jpg",
+    "h1": "Eye-Catching Banner Designs to Attract Customers",
+    "p1": "Improve your brand’s visual identity with professional banner services. We are experts in creating all kinds of advertising banners, sales banners, and brand recognition banners, that will attract the attention of the right kind of target audience. The banners will help you create a strong brand identity that can impress the target clients and increase your sales. So, let’s start your banner design with us. We have impactful banner design ideas for your brands.",
+    "h2": "We Design banners that work!",
+    "p2": "An online presentation of any sort is unthinkable without a banner in the corner, or at the very top, calling for action. To ensure your brand visibility and stand out from the thousands of similar advertisements, our experts make sure that your banner ads target your audience, deliver a message in a single glimpse, and provide you with a constant flow of traffic to your website. Instead of generic web banners with no genuine expression, we create custom banners to match your brand message and marketing strategy.",
+    "h3": "Benefits of Web Banners",
+    "points": [
+      "Cost-effective",
+      "Attracts the target audience",
+      "A sustainable method of increasing customers",
+      "Suitable for all kinds of websites"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Effects",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is a banner design?",
+        "description": "A banner is a rectangular or square-shaped advertisement placed on a website in a crowded place, or anywhere you want that holds images or texts or any other things of a company or an organization to introduce it in the marketing world. The banner comes with both online and offline forms to give opportunity to make your business advertisement on both platforms."
+      },
+      {
+        "title": "What are the benefits of banner design services?",
+        "description": "A well-designed banner can help you to grow the attention of your customers towards your products. For this reason, you need the banner design service about yourself to promote & increase the selling capacity."
+      },
+      {
+        "title": "Is banner design service essential for all industries?",
+        "description": "The banner is the most designed stuff for all kinds of businesses small or big. They all deal with various kinds of services or products & their main goal is to sell their things. Therefore, all must need a professional banner design service for their company."
+      }
+    ]
+  },
+  {
+    "slug": "logo-design",
+    "title": "Logo Design",
+    "category": "Graphic Design",
+    "image": "/assets/images/services/logo-design/hero.jpg",
+    "h1": "A Logo Design Service that expands business through creativity",
+    "p1": "Logo Design has the power to create a business identity. At Webastral Infosystems, you will get unique, memorable, and professional logos that can help to identify the business, product, service, and professional logos to boost the identity of your product. By choosing the best logo design services, we can help you stand out from the competitors and make a lasting impression on potential customers. Our customized logo can give your brand a much-needed facelift and breathe new life into your overall image.",
+    "h2": "Why Webastral Infosystems is the best choice for custom logo design?",
+    "p2": "At Webastral Infosystems, we take pride in our design expertise and experience. It allows us to create a truly amazing customized logo design for our clients. When you choose us for customized logo design services, you can rest assured that you are working with the best logo design agency.  Our graphic design team stays up-to-date on the latest logo design trends, ensuring that your logo will look fresh and modern.",
+    "h3": "Why do Clients love us?",
+    "points": [
+      "Uniqueness in Logo Design",
+      "Perfectly Targeted",
+      "Amalgamation of creativity and modernism",
+      "Complete ownership rights"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Planning",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Presentation",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Output",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What makes a good logo?",
+        "description": "A good logo speaks volumes about your brand at a single glance. Besides, a good logo is simple; it doesn’t have many fancy elements. It’s relevant, timeless, versatile, and memorable. These qualities make a logo stand out from its competitors. When customers look at such a logo, it instantly establishes the communication between them and your brand."
+      },
+      {
+        "title": "How does logo design play a crucial role in branding?",
+        "description": "Logos are crucial in leading the target audience toward your products and services. Because you choose a relevant logo design for your business, it triggers emotions and lets people recall your brand. People might forget your company's name, but they cannot ignore the logo if its design is on point.It creates a positive image of your business and builds trust. Whenever people get a glimpse of your logo, they start recalling your brand. Frequent recalls build trust and brand loyalty."
+      },
+      {
+        "title": "How do I get the best logo for my business?",
+        "description": "Write a clear and detailed logo design brief, set your budget, and provide constructive, direct feedback to designers throughout the creative journey to ensure you get the perfect logo design for you. The more details you provide in your logo design brief and the more feedback you provide, the better the results!"
+      }
+    ]
+  },
+  {
+    "slug": "brochure-design",
+    "title": "Brochure Design",
+    "category": "Graphic Design",
+    "image": "/assets/images/services/brochure-design/hero.jpg",
+    "h1": "We are the industry’s Leading Brochure Design Company",
+    "p1": "No matter which industry you operate in or what products you are selling, a high-quality brochure can be one of the most effective marketing tools in the business. It will set you apart from your competitors in the market. This is a chance to showcase your products in a format that speaks to your quality, and craftsmanship and will appeal to your customer’s aesthetics. Some of the crucial elements of an effective brochure design include an attention-grabbing cover, appropriate colors, and fonts, folds to encourage reading as well and images that make the information more appealing to the readers.",
+    "h2": "Best Brochure Design Services For Various Needs",
+    "p2": "With our 10+ years of experience and expertise in crafting brochure designs, we have mastered the art of creating impressive brochures of various styles like bi-fold brochures, tri-fold brochures, business presentation brochures, flyers, and leaflets. Depending on your business needs, the experts offering brochure design services at Webastral Infosystems, can provide you with appealing designs to project the best image of your company, be it for a promotional brochure or a sales brochure. Starting from conceptualization to actual design of the brochures and flyers, our professionals work closely with you every step of the way, helping you to penetrate the reader’s mind with influential and persuasive corporate brochures and business flyers design.",
+    "h3": "Why Choose Us?",
+    "points": [
+      "Latest Technologies",
+      "Extensive Experience",
+      "Bespoke Brochures",
+      "Affordable"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Discussion",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Delivery",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Finalization",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What kind of brochure does Webastral Infosystems design?",
+        "description": "Webastral Infosystems specializes in designing a variety of brochures, including but not limited to corporate brochures, product catalogues, leaflets, and flyers. We create custom designs tailored to meet the unique needs of your business."
+      },
+      {
+        "title": "How does the brochure design process work at Webastral Infosystems?",
+        "description": "Our brochure design process typically begins with a consultation to understand your goals, target audience, and preferences. Our experienced designers then craft initial concepts for your review, and we collaborate with you through revisions until the final design meets your satisfaction."
+      },
+      {
+        "title": "Can I give Input during the designing process?",
+        "description": "Yes, we encourage collaboration! Your input is valuable to us. We welcome your ideas, preferences, and any specific elements you'd like to see in your brochure. Our designers will work closely with you to incorporate your vision into the design."
+      }
+    ]
+  },
+  {
+    "slug": "digital-marketing",
+    "title": "Digital Marketing",
+    "category": "Digital Marketing",
+    "image": "/assets/images/services/digital-marketing/hero.jpg",
+    "icon": "/assets/images/icons/digital-mrktg.svg",
+    "h1": "Drive More Revenue with the Best Digital Marketing Services",
+    "p1": "Drive more leads, More sales and unlimited revenue…the digital marketing services of Webastral Infosystems can make your dreams come true. With Custom and out-of-the-box strategy, full-funnel ROI tracking, and data-driven insights from our revenue-marketing tech, our internet marketing tech, our internet marketing agency will help your business impact the metrics that matter the most from traffic to revenue.",
+    "h2": "Your search for Digital Marketing Services Ends Here",
+    "p2": "Your business can go up by leaps and bounds, all you need is a good digital marketing partner. Partnering with the right agency gives access to your team to work with the best industry experts. We provide the best digital marketing services 24*7 to all kinds of businesses be it start-ups or multiple-location enterprises. We can help you expand your market and offer goods and services to your target audience. Our SEO Services include SEO (Search engine optimization), SMO (Social Media Optimization), SMM (Social Media Marketing) and PPC (Pay per Click). Throughout the year, we provide an array of custom digital marketing services to your clients and our reviews speak for themselves.",
+    "h3": "Why Choose Us?",
+    "points": [
+      "Proven Strategies",
+      "We know what we are doing",
+      "Dominate your Preferred Market",
+      "Clients come first for us"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Create",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Promote",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Optimize",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "How Digital Marketing Services can benefit my business?",
+        "description": "Effective style digital marketing is beneficial as it improves the visibility and reach through online marketing. You will also be able to target new solutions that are cost-effective as compared to traditional marketing. It is also an effective medium for engaging with new and returning customers, which builds trust and strengthens the relationship between them and the brand."
+      },
+      {
+        "title": "How cost-effective is digital marketing as traditional marketing?",
+        "description": "Digital marketing is more cost-effective as compared to digital marketing as it allows the business to directly target the customers. The budget of digital marketing is flexible as compared to digital marketing. It provides metrics that help you make smarter and more profitable decisions"
+      },
+      {
+        "title": "How can I identify a successful digital marketing company?",
+        "description": "There are many agencies out there that claim that they are the best, however, it is you who needs to ensure whether it is true. Consider the reputation of the agency. Reputable agencies will have case studies and a lot of good reviews that you can count on. Going through them will help you get insights into the services of the company, as well as factors like transparency, client retention, pricing, adaptability, and reporting will also help you find out about the company."
+      }
+    ]
+  },
+  {
+    "slug": "seo-(search-engine-optimization)",
+    "title": "SEO",
+    "category": "Digital Marketing",
+    "image": "/assets/images/services/seo-(search-engine-optimization)/hero.jpg",
+    "icon": "/assets/images/icons/video-animation.svg",
+    "h1": "An SEO Company that understands you",
+    "p1": "Today everyone is on the internet and it is a great tool to promote your business. However, there will be many people offering similar services- and mostly where the people look is search engine. You may have heard about SEO for written content or website content- what exactly is that? Today we will tell you what search engine optimization is and how it can play a key role in your website’s success. Choosing to go with Webastral Infosystems can change your life, our best SEO services will give your website a much-needed boost.",
+    "h2": "We do Data- Driven SEO for Best Informed Decisions",
+    "p2": "Webastral Infosysystem is the proprietary marketing software we built to enable our client’s website strategies and digital campaigns. Clients and FXers alike utilize MarketingCloudFX to connect optimizations to ROI, plan SEO content, monitor competitors, and more. The activation of this tech for SEO strategies is what sets webastral Infosystems apart from other typical SEO agencies.",
+    "h3": "What makes us the Best SEO Service Provider?",
+    "points": [
+      "Experienced Staff",
+      "Advanced Tools",
+      "Dedicated SEO Professionals",
+      "Transparent Reporting"
+    ],
+    "workProcess": [
+      {
+        "title": "Discover",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Analyze",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Strategize",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Execute",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is SEO?",
+        "description": "The full form of SEO is Search Engine Optimization. Optimization is the basis of all SEO practices. Once your brand’s presence (Website, content, and social media platforms) is optimized across all the platforms on the internet. It helps to increase the visibility of your website. Your website will find it’s way to the first page of the search engine results (SERPs). By this process, your target audience will find you quickly on the internet."
+      },
+      {
+        "title": "Do I need different SEO strategies from different search engines?",
+        "description": "There is a subtle difference between various search engines. However, you can usually focus on Google in your SEO strategy, since most of your target market will make use of this leading search engine. Also, it will attract the majority of organic traffic from Google."
+      },
+      {
+        "title": "Is SEO Practice Better than Paid Advertising?",
+        "description": "SEO and pay-per-click or other paid media options work together to boost your website and the position of your brand.  As compared to other mode of paid promotions, SEO always does better. Off course, having that said, SEO is not cheap, it requires time and resources. Most times, SEO and paid advertising will work together to provide the best results."
+      }
+    ]
+  },
+  {
+    "slug": "smo-(social-media-optimization)",
+    "title": "SMO (Social Media Optimization)",
+    "category": "Digital Marketing",
+    "image": "/assets/images/services/smo-(social-media-optimization)/hero.jpg",
+    "h1": "Build a Brand With the Best Social Media Optimization Services in India",
+    "p1": "Social media optimization services help businesses to build trust online among it’s users. Webastral Infosystem has offered the best social media optimization services for small to large-size businesses for 10+ years now, and we proudly hold the record of helping clients in improving social media for their brand. We understand that not all businesses are the same so we have customized social media optimization strategies for all kinds of businesses to provide them with the desired success that they are looking for.",
+    "h2": "Why Should You Hire Us for Social Media Optimization Services in India?",
+    "p2": "As India’s leading social media optimization agency, Webastral Infosystems thinks from the customer’s end and always listens to the client’s requirements and objectives before getting engaged in any type of social media optimization campaign. We listen and create a perfect social media optimization plan to help our clients achieve success and the desired results on time.",
+    "h3": "Benefits of Social Media Optimization",
+    "points": [
+      "It helps increase your social media engagement",
+      "You can communicate with your target customers",
+      "It helps increase online reputation and brand loyalty",
+      "Increases earnings through social media"
+    ],
+    "workProcess": [
+      {
+        "title": "Analysis",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Uploading",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Engagement",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "If I have done SEO, do I still need the SMO Service?",
+        "description": "Social media optimization or SMO (Social media optimization) is something that naturally comes after search engine optimization or SEO. SEO involves the use of certain techniques to market your website via search engines while SMO improves your brand image amongst social media platforms on the internet that handles a lot of traffic."
+      },
+      {
+        "title": "Is SMO beneficial for my site rankings?",
+        "description": "SMO (Social media optimization) has a huge positive impact on the rank of your website as it improves your rank by bringing in quality links to your site. The ranks brought by SMO are natural and organic and hence are loved by the search engines as well."
+      },
+      {
+        "title": "How do I measure my ROI (Return on investment) in social media campaigns?",
+        "description": "Social Media ROI depends on many factors like social, environmental, and economic factors. ROI is calculated based on the gain per penny invested in the campaign, but this is different from the SMO campaign. In social media campaigns ROI, social awareness, and reach are considered as profits."
+      }
+    ]
+  },
+  {
+    "slug": "smm-(social-media-marketing)",
+    "title": "SMM (Social Media Marketing)",
+    "category": "Digital Marketing",
+    "image": "/assets/images/services/smm-(social-media-marketing)/hero.jpg",
+    "h1": "# 1 SMM Services Platform That You Can Rely On",
+    "p1": "Are you looking for the best Social Media Marketing Services in India to promote your brand? Hire Webastral Infosystems - the provider of the best IT Services globally, offering top-quality social media marketing services at very low prices. Our expert social media marketing services are trusted by clients worldwide. We have the best SMM services that are economical and by your demands. We would be pleased to make your business grow and help you generate dedicated customers.",
+    "h2": "We Lead, They Follow",
+    "p2": "Our team of experts has the expertise and experience to ensure that all Social Media Marketing (SMM) Panel Services provided by us are of the cheapest and beyond quality standards. We take pride in our customer satisfaction, and it partially comes from our services being guaranteed, targeted, and cheap SMM service all the time. So, go ahead with confidence, knowing that your SMM Panel services will be taken care of, and you’re a world-famous businessman already!",
+    "h3": "How does SMM benefit Business?",
+    "points": [
+      "Better SEO Rankings",
+      "Improved Exposure",
+      "Better Trust among competitors",
+      "Better Profits"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Target",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Execute",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Monitor",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What kind of Social Media Marketing Services are offered at Webastral Infosystems?",
+        "description": "We offer a comprehensive suite of social media marketing services, including social media strategy development, content curation, community management, social media advertising, and analytics and reporting. Our services are designed to boost your brand’s presence on various social media platforms."
+      },
+      {
+        "title": "How does Webastral Infosystems tailor its social media strategies for different kinds of businesses?",
+        "description": "We start by understanding the objectives of our client’s business, target audience, and brand identity. We create customized content and campaigns that resonate with your audience and align with your specific marketing goals."
+      },
+      {
+        "title": "What makes Webastral Infosystems SMM (Social media marketing) services stand out?",
+        "description": "What sets us apart from others is our dedication to creating authentic and out-of-the-box content. Our expertise lies in targeting customers and engaging them so that relationships can be created with them in the future. We utilize the latest trends and tools so that your brand always remains ahead of the competition."
+      }
+    ]
+  },
+  {
+    "slug": "ppc-(pay-per-click)",
+    "title": "PPC (Pay Per Click)",
+    "category": "Digital Marketing",
+    "image": "/assets/images/services/ppc-(pay-per-click)/hero.jpg",
+    "h1": "Drive Revenue Growth with Strategic PPC Campaigns",
+    "p1": "Transform your clicks with revenue by integrating your sales data with your PPC Campaigns. Make your businesses achieve a guaranteed 25% increase in ROI using the expert award-winning technology. Contact us to get a strategy proposal today! We impart our PPC services to various companies and businesses to amplify their leads, elevate their brand name, and increase sales.",
+    "h2": "We offer PPC Services that work",
+    "p2": "PPC (Pay Per Click) is one of the most effective forms of online marketing as it brings instant traffic and facilitates business outreach for it’s customers. At Webastral Infosystems, we offer reliable PPC Management Services in India to help your business engage its target audience and get high traffic. Our approach is to create tailored PPC campaigns that are based on the client’s requirements and fit into their budget. We cater to end-to-end solutions, right from writing the ad copy to generating the analytics report for evaluating the campaign performance.",
+    "h3": "Partner with the Certified PPC Management Company",
+    "points": [
+      "Improves brand’s visibility",
+      "Increases quality traffic",
+      "Maximized ROI",
+      "Transparency at it’s Best"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Develop",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Launch",
+        "image": "/assets/images/icons/work-procs4.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "What is PPC?",
+        "description": "PPC stands for Pay Per Click. It is a digital marketing strategy to buy traffic for your website. In this scenario, the advertiser pays a small fee each time one of your ads is clicked by the user. Search engine advertising is the most popular form of PPC. Even many social media platforms like Facebook also offer PPC models. You can promote your company in search results, on websites, and across social media platforms. PPC ads can also consist of text, videos, and pictures."
+      },
+      {
+        "title": "Will my target market click on my online PPC Ads?",
+        "description": "Ads that appear on search results are published to target specific audiences and earn almost half of all page clicks. Users who click on paid ads are usually ready to make decisions and therefore more likely to buy products and services by comparison to an organic visitor. With PPC ads, you can target online users who are searching for any specific product or service. It can boost your sales and promote your business to a great extent."
+      },
+      {
+        "title": "How do I Budget my PPC Ads?",
+        "description": "Your PPC services cost is calculated based on your bid, your targeting, and your ad quality. The amount of money you're willing to spend for a user to click on your ad is called your bid. You enter your bid into an ad auction and the highest bidder wins, so you could end up paying less than your bid amount, but never more. Targeting factors include all aspects of your goal, from the keywords you’re ranking for to the demographics of your audience."
+      }
+    ]
+  },
+  {
+    "slug": "web-design",
+    "title": "Web Design",
+    "category": "Web Design",
+    "image": "/assets/images/services/web-design/hero.jpg",
+    "icon": "/assets/images/icons/brandsolution.svg",
+    "h1": "Custom websites designed with the return on your investment in mind",
+    "p1": "The design of your website needs special attention. It is a decision that has to account for the return on your investment. We specialise in custom websites built for performance, freedom, and independence — using the open-source platforms the world already relies on, including WordPress and Joomla.",
+    "h2": "From a custom strategy to a site that works on every device",
+    "p2": "Specialists stay with you from the start of the project to the end, so the web strategy produces tangible results. We have more than 1,000 web projects to our credit, plus hosting and technical support that can grow with you. Advanced responsive (adaptive) design means visitors get a full experience no matter which device they use.",
+    "h3": "Why WebAstral to design your website",
+    "points": [
+      "A better return through custom web marketing that helps you reach the right audience",
+      "A site that meets the highest web standards",
+      "A consistent, effective web strategy from start to finish",
+      "A methodology proven across hundreds of quality web projects",
+      "On-budget delivery, friendly technical support, and built-in performance measurement"
+    ],
+    "workProcess": [
+      {
+        "title": "Research",
+        "image": "/assets/images/icons/work-procs1.svg"
+      },
+      {
+        "title": "Strategy",
+        "image": "/assets/images/icons/work-procs2.svg"
+      },
+      {
+        "title": "Design",
+        "image": "/assets/images/icons/work-procs3.svg"
+      },
+      {
+        "title": "Development",
+        "image": "/assets/images/icons/work-procs4.svg"
+      },
+      {
+        "title": "Testing",
+        "image": "/assets/images/icons/work-procs1.svg"
+      }
+    ],
+    "faqs": [
+      {
+        "title": "Do you make custom websites?",
+        "description": "Yes. We start from a blank screen rather than a template. Designers work through your brand identity, visual goals, and competitor sites, then produce mock-ups and revisions until the graphic design matches what you need."
+      },
+      {
+        "title": "Will my website work on phones and tablets?",
+        "description": "Yes. We use advanced responsive (adaptive) design so the layout reflows for computer, tablet, and smartphone. Visitors get a complete experience without zooming or a separate mobile site."
+      },
+      {
+        "title": "Do you work with WordPress and Joomla?",
+        "description": "Yes. We specialise in WordPress and Joomla web design and development, and we can also build high-level web software to add to a corporate site. Open source keeps you in control of the product."
+      },
+      {
+        "title": "Why should I choose WebAstral for web design?",
+        "description": "You get a custom strategy, web standards, an on-budget process, and a team that has delivered hundreds of quality projects. After launch we stay on for friendly technical support, hosting that can track your growth, and performance measurement tools built into the work."
+      },
+      {
+        "title": "What happens after the site launches?",
+        "description": "We offer fast, reliable technical support and hosting that can grow with the business. Performance measurement is built into our projects so you can see whether the design is returning on the investment."
+      }
+    ]
+  }
+]
