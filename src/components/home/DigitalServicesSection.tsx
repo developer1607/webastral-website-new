@@ -30,21 +30,25 @@ export default function DigitalServicesSection() {
           </Link>
         </FadeIn>
 
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-2">
           {homeServiceCards.map((service, index) => {
             const Icon = icons[index];
             return (
               <FadeIn key={service.slug} delay={index * 0.06}>
                 <Link
                   href={`/services/${service.slug}`}
-                  className="group relative flex h-full flex-col rounded-2xl bg-white p-5 text-zinc-900 shadow-sm transition hover:-translate-y-1 hover:shadow-lg"
+                  className="group relative flex h-full flex-col rounded-2xl bg-white p-5 text-center text-zinc-900 shadow-sm transition hover:-translate-y-1 hover:shadow-lg"
                 >
-                  <span className="mb-8 inline-flex h-10 w-10 items-center justify-center rounded-full bg-[#e8f1ff] text-[#2f6fd6] lg:absolute lg:right-5 lg:top-5 lg:mb-0">
-                    <Icon className="h-5 w-5" />
-                  </span>
-                  <h3 className="pr-12 text-base font-semibold text-zinc-900">
+                  <div className="relative mb-4 flex w-full items-center justify-center">
+                    <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#e8f1ff] text-[#2f6fd6]">
+                      <Icon className="h-6 w-6" />
+                    </div>
+                  </div>
+
+                  <h3 className="text-base font-semibold text-zinc-900">
                     {service.title}
                   </h3>
+
                   <p className="mt-2 text-sm leading-relaxed text-zinc-600">
                     {service.description}
                   </p>

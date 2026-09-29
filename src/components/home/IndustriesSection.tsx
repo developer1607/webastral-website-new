@@ -245,7 +245,7 @@ export default function IndustriesSection() {
 
   return (
     <section
-      className="overflow-x-hidden bg-white py-10 sm:py-16 lg:py-20"
+      className="overflow-x-hidden bg-white pb-8"
       aria-roledescription="carousel"
       aria-label="Industries we serve"
       onMouseEnter={() => setIsPaused(true)}
@@ -253,7 +253,7 @@ export default function IndustriesSection() {
       onFocusCapture={() => setIsPaused(true)}
       onBlurCapture={() => setIsPaused(false)}
     >
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div className="px-4 sm:px-6 lg:px-8">
         <h2 className="text-center text-xl font-normal leading-snug text-zinc-700 sm:text-3xl lg:text-4xl">
           Industries <span className="font-bold text-zinc-900">We Serve</span>
         </h2>
