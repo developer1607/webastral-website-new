@@ -257,7 +257,7 @@ export const blogPosts = [
 ];
 
 export const insightCards = [
-  { title: "Newsroom", image: "/assets/images/blog/ai.png", href: "/blog/chatgpt-vs-gemini-explained" },
+  { title: "Newsroom", image: "/assets/images/blog/news-room1.jpg", href: "/blog/chatgpt-vs-gemini-explained" },
   {
     title: "Insight",
     image: "/assets/images/blog/webastral-post.png",

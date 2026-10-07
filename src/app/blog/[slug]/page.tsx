@@ -33,9 +33,29 @@ export default async function BlogDetailPage({ params }: Props) {
             <p className="text-sm text-[#2f6fd6]">
               {article.category} · {article.date} · {article.readtime}
             </p>
-            <div className="relative mt-6 aspect-[16/8] overflow-hidden rounded-3xl">
+            {/* <div className="relative mt-6 aspect-[16/8] overflow-hidden rounded-3xl">
               <Image src={article.image} alt={article.title} fill className="object-cover" />
+            </div> */}
+
+            <div className="relative mt-6 aspect-[16/8] overflow-hidden rounded-3xl">
+              <Image
+                src={article.image}
+                alt={article.title}
+                fill
+                className="object-cover"
+              />
+
+              <div
+                className="absolute inset-0"
+                style={{
+                  background: `
+        linear-gradient(90deg, rgba(22, 184, 100, 0.08) 1px, transparent 1px) 0 0 / 92px 100%,
+        linear-gradient(135deg, rgba(47, 111, 214, 0.75), rgba(11, 33, 24, 0.75))
+      `,
+                }}
+              />
             </div>
+
             <div className="mt-8 space-y-6">
               {article.sections.map((section) => (
                 <section key={section.heading}>

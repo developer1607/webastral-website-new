@@ -13,7 +13,7 @@ export const blogArticles: Record<
   "chatgpt-vs-gemini-explained": {
     title: "Discover the Differences: ChatGPT and Gemini Explained",
     category: "AI",
-    image: "/assets/images/blog/ai.png",
+    image: "/assets/images/blog/news-room1.jpg",
     author: "Cameron Williamson",
     date: "February 28, 2022",
     readtime: "28 min Read",

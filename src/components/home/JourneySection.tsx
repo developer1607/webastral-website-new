@@ -68,7 +68,7 @@ export default function JourneySection() {
         .journey-carousel {
           position: relative;
           width: 100%;
-          height: 250px;
+          height: 365px;
 
           /*
             Creates the smooth 3D depth
@@ -86,7 +86,7 @@ export default function JourneySection() {
 
           top: 0;
 
-          height: 250px;
+          height: 365px;
 
           overflow: hidden;
 
@@ -156,7 +156,7 @@ export default function JourneySection() {
           0% {
             left: 0%;
             width: 25%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -191,7 +191,7 @@ export default function JourneySection() {
           22% {
             left: 0%;
             width: 25%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -218,7 +218,7 @@ export default function JourneySection() {
           34% {
             left: 26%;
             width: 48%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -245,7 +245,7 @@ export default function JourneySection() {
           55% {
             left: 26%;
             width: 48%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -271,7 +271,7 @@ export default function JourneySection() {
           67% {
             left: 75%;
             width: 25%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -303,7 +303,7 @@ export default function JourneySection() {
           88% {
             left: 75%;
             width: 25%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -330,7 +330,7 @@ export default function JourneySection() {
           100% {
             left: 0%;
             width: 25%;
-            height: 250px;
+            height: 365px;
 
             transform:
               translateX(0)
@@ -370,11 +370,11 @@ export default function JourneySection() {
 
         @media (max-width: 1024px) {
           .journey-carousel {
-            height: 220px;
+            height: 300px;
           }
 
           .journey-image {
-            height: 220px;
+            height: 300px;
           }
 
           @keyframes journeyMarquee {
@@ -382,7 +382,7 @@ export default function JourneySection() {
             22% {
               left: 0%;
               width: 25%;
-              height: 220px;
+              height: 300px;
               transform: scale(0.96);
             }
 
@@ -390,7 +390,7 @@ export default function JourneySection() {
             55% {
               left: 26%;
               width: 48%;
-              height: 220px;
+              height: 300px;
               transform: scale(1);
             }
 
@@ -398,14 +398,14 @@ export default function JourneySection() {
             88% {
               left: 75%;
               width: 25%;
-              height: 220px;
+              height: 300px;
               transform: scale(0.96);
             }
 
             100% {
               left: 0%;
               width: 25%;
-              height: 220px;
+              height: 300px;
               transform: scale(0.96);
             }
           }
@@ -417,11 +417,11 @@ export default function JourneySection() {
 
         @media (max-width: 640px) {
           .journey-carousel {
-            height: 180px;
+            height: 220px;
           }
 
           .journey-image {
-            height: 180px;
+            height: 220px;
           }
 
           @keyframes journeyMarquee {
@@ -429,7 +429,7 @@ export default function JourneySection() {
             22% {
               left: 0%;
               width: 25%;
-              height: 180px;
+              height: 220px;
               transform: scale(0.94);
             }
 
@@ -437,7 +437,7 @@ export default function JourneySection() {
             55% {
               left: 26%;
               width: 48%;
-              height: 180px;
+              height: 220px;
               transform: scale(1);
             }
 
@@ -445,14 +445,14 @@ export default function JourneySection() {
             88% {
               left: 75%;
               width: 25%;
-              height: 180px;
+              height: 220px;
               transform: scale(0.94);
             }
 
             100% {
               left: 0%;
               width: 25%;
-              height: 180px;
+              height: 220px;
               transform: scale(0.94);
             }
           }

@@ -44,7 +44,7 @@ export default function Footer() {
                 className="h-auto max-h-[52px] w-auto max-w-[240px]"
               />
             </Link>
-            <p className="text-sm leading-relaxed text-zinc-400">
+            <p className="text-sm leading-relaxed text-zinc-400 mt-5">
               {brand.description} We help brands grow with websites, apps, and
               digital marketing built around their goals.
             </p>

@@ -16,7 +16,7 @@ const slides = [
     title: "SEO Optimized Architecture",
     description:
       "We engineer high tech solutions for your software needs. Be it website development, digital marketing, or app development — we plan, design, and ship products that are fast, searchable, and built to convert.",
-    image: "/assets/images/bg/portfolio12.png",
+    image: "/assets/images/bg/work-speaks3.png",
   },
   {
     brand: (
@@ -27,7 +27,7 @@ const slides = [
     title: "High Converting E-Commerce",
     description:
       "We create scalable e-commerce experiences with intuitive user journeys, optimized performance, secure integrations, and conversion-focused interfaces designed to help businesses grow.",
-    image: "/assets/images/bg/portfolio12.png",
+    image: "/assets/images/bg/work-speaks1.jpg",
   },
   {
     brand: (
@@ -38,7 +38,7 @@ const slides = [
     title: "Engaging Social Platforms",
     description:
       "From community platforms to social applications, we design and develop experiences that make interaction simple, engaging, and intuitive across devices.",
-    image: "/assets/images/bg/portfolio12.png",
+    image: "/assets/images/bg/work-speaks2.jpg",
   },
   {
     brand: (

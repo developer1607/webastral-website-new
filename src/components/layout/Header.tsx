@@ -134,7 +134,7 @@ export default function Header() {
               <X className="h-5 w-5" />
             </button>
           </div>
-          <div className="h-[calc(100vh-64px)] overflow-y-auto px-4 py-6">
+          <div className="h-[calc(100vh-64px)] overflow-y-auto px-4 py-6 bg-[#eef2f7]">
             <ul className="space-y-2">
               {navItems.map((item) => (
                 <li key={item.href}>

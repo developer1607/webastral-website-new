@@ -13,16 +13,20 @@ export default function PageBanner({
   const trail = crumbs ?? [];
 
   return (
-    <section className="relative isolate overflow-hidden bg-zinc-900 py-20 sm:py-28">
-      <Image
+    <section style={{
+  background: `
+    linear-gradient(90deg, rgba(22, 184, 100, 0.08) 1px, transparent 1px) 0px 0px / 92px 100%, linear-gradient(135deg, rgb(47, 111, 214), rgb(14 59 144))
+  `,
+}} className="relative isolate overflow-hidden  py-20 sm:py-28">
+      {/* <Image
         src={image}
         alt=""
         fill
         className="object-cover opacity-40"
         sizes="100vw"
         priority
-      />
-      <div className="absolute inset-0 bg-black/55" />
+      /> */}
+      {/* <div className="absolute inset-0 bg-black/55" /> */}
       <div className="relative mx-auto max-w-7xl px-4 text-center sm:px-6 lg:px-8">
         <p className="mb-4 text-sm text-white/80">
           <Link href="/" className="hover:text-white">
