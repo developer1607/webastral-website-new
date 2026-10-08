@@ -41,6 +41,7 @@ export default function Footer() {
                 alt="WebAstral"
                 width={1040}
                 height={253}
+                style={{ height: "auto", width: "auto", maxHeight: 52, maxWidth: 240 }}
                 className="h-auto max-h-[52px] w-auto max-w-[240px]"
               />
             </Link>

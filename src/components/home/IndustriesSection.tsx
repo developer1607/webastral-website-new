@@ -302,7 +302,7 @@ export default function IndustriesSection() {
                     height={card.height}
                     className={imageClass}
                     sizes="(max-width: 640px) 82vw, (max-width: 1024px) 58vw, 33vw"
-                    priority={index === SLIDE_COUNT}
+                    loading="lazy"
                   />
                 </article>
               ))}

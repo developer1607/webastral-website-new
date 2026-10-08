@@ -40,8 +40,9 @@ export default function Header() {
             alt="WebAstral"
             width={1040}
             height={253}
-            className="h-10 w-auto sm:h-11"
             priority
+            style={{ height: "2.5rem", width: "auto" }}
+            className="!h-10 w-auto sm:!h-11"
           />
         </Link>
 
@@ -124,7 +125,14 @@ export default function Header() {
       {open ? (
         <div className="fixed inset-0 z-50 bg-white xl:hidden">
           <div className="flex items-center justify-between border-b border-zinc-100 px-4 py-3">
-            <Image src="/logo.png?v=20260924" alt="WebAstral" width={1040} height={253} className="h-9 w-auto" />
+            <Image
+              src="/logo.png?v=20260924"
+              alt="WebAstral"
+              width={1040}
+              height={253}
+              style={{ height: "2.25rem", width: "auto" }}
+              className="!h-9 w-auto"
+            />
             <button
               type="button"
               onClick={() => setOpen(false)}

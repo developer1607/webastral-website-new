@@ -30,18 +30,18 @@ export default function JourneySection() {
           />
         </FadeIn>
 
-        <div className="journey-wrapper mt-10">
-          <div className="journey-carousel">
+        <div className="journey-wrapper mt-10 w-full overflow-hidden">
+          <div className="journey-carousel relative h-[220px] w-full sm:h-[300px] lg:h-[365px]">
             {journeyImages.map((image, index) => (
               <div
                 key={image.src}
-                className={`journey-image journey-image-${index + 1}`}
+                className={`journey-image journey-image-${index + 1} absolute left-0 top-0 h-[220px] w-1/4 overflow-hidden rounded-[20px] sm:h-[300px] lg:h-[365px]`}
               >
                 <Image
                   src={image.src}
                   alt={image.alt}
                   fill
-                  priority
+                  loading="lazy"
                   className="object-cover"
                   sizes="(max-width: 768px) 40vw, 30vw"
                 />

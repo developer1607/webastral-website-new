@@ -341,7 +341,7 @@ export default function WorkSection() {
                           src={slide.image}
                           alt={slide.title}
                           fill
-                          priority={index === 0}
+                          loading="lazy"
                           className="object-cover"
                           sizes="(max-width: 1024px) 100vw, 50vw"
                         />
